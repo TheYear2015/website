@@ -1,0 +1,1 @@
+nohup python3 tornadoApp.py 1>> tornadoApp.py.log 2>&1  &
